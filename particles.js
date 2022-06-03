@@ -1,8 +1,8 @@
 /* -----------------------------------------------
-/* Author : Vincent Garreau  - vincentgarreau.com
+/* Dev : ByronJefferJimenezSagastume  - https://cooperativaweb-ixcanpg-gt-alisslulus-bj.github.io/CoopeWeb.ixcan.gt.coope/
 /* MIT license: http://opensource.org/licenses/MIT
-/* Demo / Generator : vincentgarreau.com/particles.js
-/* GitHub : github.com/VincentGarreau/particles.js
+/* Demo / Generator : https://cooperativaweb-ixcanpg-gt-alisslulus-bj.github.io/CoopeWeb.ixcan.gt.coope//particles.js
+/* GitHub : github.com/https://cooperativaweb-ixcanpg-gt-alisslulus-bj.github.io/CoopeWeb.ixcan.gt.coope//particles.js
 /* How to use? : Check the GitHub README
 /* v2.0.0
 /* ----------------------------------------------- */
